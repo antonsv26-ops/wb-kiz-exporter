@@ -73,8 +73,6 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-> ⚠️ Файл `.env` добавлен в `.gitignore` — не коммитьте его в репозиторий.
-
 ### 2. Заполните данные
 
 Откройте `.env` и укажите:
